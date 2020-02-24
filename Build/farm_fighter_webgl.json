@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project 2",
+"dataUrl": "farm_fighter_webgl.data.unityweb",
+"wasmCodeUrl": "farm_fighter_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "farm_fighter_webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
